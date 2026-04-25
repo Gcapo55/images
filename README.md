@@ -4,37 +4,17 @@
 **AGORA** est une fiction interactive développée avec **SugarCube** sur **Twine**.  
 Le projet propose une parodie d’une intelligence artificielle au service d’un régime autoritaire.
 
-L’objectif est de mettre en évidence, avec une dimension absurde, plusieurs mécanismes contemporains :
-- manipulation politique  
-- légitimation démocratique  
-- délégation du jugement citoyen à des systèmes présentés comme neutres  
+L’objectif ce projet de mettre en évidence, avec un certain degré d’absurde, les mécanismes contemporains de manipulation politique, de légitimation démocratique et de délégation du jugement citoyen à des systèmes présentés comme neutres et rationnels. 
 
-Le jeu se compose de deux parties principales :
-1. Une phase de préparation du joueur  
-2. Une phase de votation  
-
-Deux approches sont possibles :
-- collaborer avec AGORA  
-- s’opposer à ses mécanismes
+---
 
 ## Accès au jeu
 
 Le jeu peut être lancé :
 - en ouvrant directement le fichier `.html` dans un navigateur  
-- via la plateforme itch.io :
+- via la plateforme itch.io : https://toucan-furtif.itch.io/agora  
 
-👉 https://toucan-furtif.itch.io/agora  
-
-L’interface SugarCube permet :
-- la sauvegarde  
-- la navigation entre les passages  
-
----
-
-## Ressources externes
-
-Le jeu utilise des images hébergées sur GitHub.  
-➡️ Une connexion internet est donc nécessaire pour une expérience optimale.
+Dans tous les cas, le jeu nécessite un connexion internet.
 
 ---
 
