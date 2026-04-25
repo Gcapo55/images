@@ -1,5 +1,6 @@
 <img width="1536" height="1024" alt="Agoratheme" src="https://github.com/user-attachments/assets/51b19ae5-9fa9-4a9b-b285-f9d768fe80b7" />
 
+
 ## Présentation du projet
 **AGORA** est une fiction interactive développée avec **SugarCube** sur **Twine**.  
 Le projet propose une parodie d’une intelligence artificielle au service d’un régime autoritaire.
