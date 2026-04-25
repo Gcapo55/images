@@ -1,4 +1,4 @@
-<img width="1000" height="750" alt="Agoratheme" src="https://github.com/user-attachments/assets/51b19ae5-9fa9-4a9b-b285-f9d768fe80b7" />
+<img width="2000" height="750" alt="Agoratheme" src="https://github.com/user-attachments/assets/51b19ae5-9fa9-4a9b-b285-f9d768fe80b7" />
 
 
 ## Présentation du projet
