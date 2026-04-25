@@ -1,4 +1,4 @@
-<img width="1536" height="750" alt="Agoratheme" src="https://github.com/user-attachments/assets/51b19ae5-9fa9-4a9b-b285-f9d768fe80b7" />
+<img width="1200" height="750" alt="Agoratheme" src="https://github.com/user-attachments/assets/51b19ae5-9fa9-4a9b-b285-f9d768fe80b7" />
 
 
 ## Présentation du projet
@@ -15,11 +15,11 @@ Le jeu peut être lancé :
 - en ouvrant directement le fichier `.html` dans un navigateur  
 - via la plateforme itch.io : https://toucan-furtif.itch.io/agora  
 
-Dans tous les cas, le jeu nécessite un connexion internet.
+Dans tous les cas, le jeu nécessite une connexion internet.
 
 ---
 
-## Recours aux LLM
+## Recours aux IA
 
 Des outils d’intelligence artificielle ont été utilisés :
 
@@ -33,11 +33,6 @@ Des outils d’intelligence artificielle ont été utilisés :
 
 ## Contexte académique
 
-Projet réalisé dans le cadre du cours :
-
-**Fiction Interactive**  
-Enseigné par **Johan Cuda**  
-Section des sciences du langage et de l'information (SLI),  
-Faculté des lettres, **UNIL**
+Ce projet a été développé dans le cadre du cours **Fiction Interactive** dispensé par Johan Cuda (SLI, Lettres, UNIL).
 
 ---
